@@ -1,0 +1,22 @@
+{
+    "Platforms": [
+        {
+            "displayName": "Steam",
+            "iconUrl": "https://drive.google.com/uc?export=download&id=1slkNVZBO6bhnJE_sUYP58bXxwdbN6WAc",
+            "assetUrl": "https://assetstore.unity.com/",
+            "supportedBuildTargets": 1
+        },
+        {
+            "displayName": "Game Core",
+            "iconUrl": "https://drive.google.com/uc?export=download&id=1zpOxgVTwsuyjlsb5nPG2-0vR9HslusDH",
+            "assetUrl": "https://assetstore.unity.com/",
+            "supportedBuildTargets": 131
+        },
+        {
+            "displayName": "Epic Online Services",
+            "iconUrl": "",
+            "assetUrl": "",
+            "supportedBuildTargets": 1
+        }
+    ]
+}
