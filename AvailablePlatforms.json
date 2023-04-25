@@ -1,5 +1,5 @@
 {
-    "platforms": [
+    "Platforms": [
         {
             "displayName": "Steam",
             "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/Steam_icon.png",
