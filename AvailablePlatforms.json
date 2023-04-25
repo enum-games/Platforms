@@ -11,12 +11,6 @@
             "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/Xbox_icon.png",
             "assetUrl": "https://assetstore.unity.com/",
             "supportedBuildTargets": 131
-        },
-        {
-            "displayName": "Epic Online Services",
-            "iconUrl": "",
-            "assetUrl": "",
-            "supportedBuildTargets": 1
         }
     ]
 }
