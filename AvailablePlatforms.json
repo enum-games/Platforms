@@ -1,13 +1,13 @@
 {
     "Platforms": [
         {
-            "displayName": "Steam2",
+            "displayName": "Steam",
             "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/Steam_icon.png",
             "assetUrl": "https://assetstore.unity.com/",
             "supportedBuildTargets": 1
         },
         {
-            "displayName": "Game Core",
+            "displayName": "Xbox for PC",
             "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/Xbox_icon.png",
             "assetUrl": "https://assetstore.unity.com/",
             "supportedBuildTargets": 131
