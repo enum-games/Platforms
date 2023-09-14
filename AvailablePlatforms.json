@@ -18,7 +18,7 @@
         },
         {
             "displayName": "Epic Games",
-            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/EpicGames.png",
+            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/EpicGamesIcon.png",
             "assetUrl": "https://assetstore.unity.com/",
             "price": "$9.99",
             "platformConfigName": "EpicGamesConfig",
