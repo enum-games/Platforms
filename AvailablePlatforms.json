@@ -15,6 +15,14 @@
             "price": "$9.99",
             "platformConfigName": "XboxPCConfig",
             "supportedBuildTargets": 1
+        },
+        {
+            "displayName": "Epic Games",
+            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/EpicGames.png",
+            "assetUrl": "https://assetstore.unity.com/",
+            "price": "$9.99",
+            "platformConfigName": "EpicGamesConfig",
+            "supportedBuildTargets": 1
         }
     ]
 }
