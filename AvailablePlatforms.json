@@ -20,7 +20,7 @@
         },
         {
             "displayName": "Microsoft Store",
-            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/EpicGames_icon.png",
+            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/MicrosoftStore_icon.png",
             "assetUrl": "https://assetstore.unity.com/",
             "price": "9.99",
             "platformConfigName": "MicrosoftStoreConfig",
@@ -29,7 +29,7 @@
         },
         {
             "displayName": "Xbox",
-            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/EpicGames_icon.png",
+            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/Xbox_icon.png",
             "assetUrl": "https://assetstore.unity.com/",
             "price": "9.99",
             "platformConfigName": "XboxConfig",
@@ -38,7 +38,7 @@
         },
         {
             "displayName": "PSN",
-            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/EpicGames_icon.png",
+            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/PlayStationIcon.png",
             "assetUrl": "https://assetstore.unity.com/",
             "price": "9.99",
             "platformConfigName": "PSNConfig",
@@ -47,7 +47,7 @@
         },
         {
             "displayName": "Switch",
-            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/EpicGames_icon.png",
+            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/Switch_icon.png",
             "assetUrl": "https://assetstore.unity.com/",
             "price": "9.99",
             "platformConfigName": "SwitchConfig",
@@ -56,7 +56,7 @@
         },
         {
             "displayName": "Google Play",
-            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/EpicGames_icon.png",
+            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/GooglePlayIcon.png",
             "assetUrl": "https://assetstore.unity.com/",
             "price": "9.99",
             "platformConfigName": "GooglePlayConfig",
@@ -65,7 +65,7 @@
         },
         {
             "displayName": "Game Center",
-            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/EpicGames_icon.png",
+            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/GameCenterIcon.png",
             "assetUrl": "https://assetstore.unity.com/",
             "price": "9.99",
             "platformConfigName": "GameCenterConfig",
