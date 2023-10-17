@@ -6,7 +6,71 @@
             "assetUrl": "https://assetstore.unity.com/",
             "price": "FREE",
             "platformConfigName": "SteamConfig",
+            "isComingSoon": false,
             "supportedBuildTargets": 1
+        },
+        {
+            "displayName": "Epic Games",
+            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/EpicGames_icon.png",
+            "assetUrl": "https://assetstore.unity.com/",
+            "price": "9.99",
+            "platformConfigName": "EpicGamesConfig",
+            "isComingSoon": true,
+            "supportedBuildTargets": 1
+        },
+        {
+            "displayName": "Microsoft Store",
+            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/EpicGames_icon.png",
+            "assetUrl": "https://assetstore.unity.com/",
+            "price": "9.99",
+            "platformConfigName": "MicrosoftStoreConfig",
+            "isComingSoon": true,
+            "supportedBuildTargets": 1
+        },
+        {
+            "displayName": "Xbox",
+            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/EpicGames_icon.png",
+            "assetUrl": "https://assetstore.unity.com/",
+            "price": "9.99",
+            "platformConfigName": "XboxConfig",
+            "isComingSoon": true,
+            "supportedBuildTargets": 130
+        },
+        {
+            "displayName": "PSN",
+            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/EpicGames_icon.png",
+            "assetUrl": "https://assetstore.unity.com/",
+            "price": "9.99",
+            "platformConfigName": "PSNConfig",
+            "isComingSoon": true,
+            "supportedBuildTargets": 272
+        },
+        {
+            "displayName": "Switch",
+            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/EpicGames_icon.png",
+            "assetUrl": "https://assetstore.unity.com/",
+            "price": "9.99",
+            "platformConfigName": "SwitchConfig",
+            "isComingSoon": true,
+            "supportedBuildTargets": 32
+        },
+        {
+            "displayName": "Google Play",
+            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/EpicGames_icon.png",
+            "assetUrl": "https://assetstore.unity.com/",
+            "price": "9.99",
+            "platformConfigName": "GooglePlayConfig",
+            "isComingSoon": true,
+            "supportedBuildTargets": 4
+        },
+        {
+            "displayName": "Game Center",
+            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/EpicGames_icon.png",
+            "assetUrl": "https://assetstore.unity.com/",
+            "price": "9.99",
+            "platformConfigName": "GameCenterConfig",
+            "isComingSoon": true,
+            "supportedBuildTargets": 8
         }
     ]
 }
