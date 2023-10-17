@@ -7,22 +7,6 @@
             "price": "FREE",
             "platformConfigName": "SteamConfig",
             "supportedBuildTargets": 1
-        },
-        {
-            "displayName": "Xbox for PC",
-            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/Xbox_icon.png",
-            "assetUrl": "https://assetstore.unity.com/",
-            "price": "$9.99",
-            "platformConfigName": "XboxPCConfig",
-            "supportedBuildTargets": 1
-        },
-        {
-            "displayName": "Epic Games",
-            "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/EpicGamesIcon.png",
-            "assetUrl": "https://assetstore.unity.com/",
-            "price": "$9.99",
-            "platformConfigName": "EpicGamesConfig",
-            "supportedBuildTargets": 1
         }
     ]
 }
