@@ -3,7 +3,7 @@
         {
             "displayName": "Steam",
             "iconUrl": "https://raw.githubusercontent.com/enum-games/platforms/main/Steam_icon.png",
-            "assetUrl": "https://assetstore.unity.com/",
+            "assetUrl": "https://github.com/enum-games/Platforms-Steam/releases/tag/v1.0.0",
             "price": "FREE",
             "platformConfigName": "SteamConfig",
             "isComingSoon": false,
